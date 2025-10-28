@@ -1,0 +1,7 @@
+{
+  "name": "Medivault",
+  "description": "Medivault: An advanced digital healthcare ecosystem with an AI assistant, nearby clinic/hospital/pharmacy locators, appointment booking, and health record management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
